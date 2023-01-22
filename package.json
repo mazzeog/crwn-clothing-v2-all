@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "5.16.1",
     "@testing-library/react": "12.1.2",
     "@testing-library/user-event": "13.5.0",
+<<<<<<< HEAD
     "@types/jest": "27.4.1",
     "@types/node": "17.0.23",
     "@types/react": "17.0.43",
@@ -15,6 +16,9 @@
     "@types/redux-logger": "3.0.9",
     "@types/styled-components": "5.1.24",
     "dotenv": "16.0.0",
+=======
+    "dotenv": "^16.0.3",
+>>>>>>> origin/release-v0.1.0-alpha
     "firebase": "9.6.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
